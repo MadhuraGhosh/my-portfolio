@@ -1,0 +1,41 @@
+{
+    "projects": [
+      {
+        "date": "20/11/2022",
+        "title": "web STAR",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://github.com/MadhuraGhosh/Reactwebstar",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+      },
+  
+      {
+        "date": "11/10/2022",
+        "title": "weatherapp",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://github.com/MadhuraGhosh/weatherapp",
+        "imgSrc": "https://cdn.pixabay.com/photo/2016/01/23/20/43/lightning-1158027_960_720.jpg"
+      },
+      {
+        "date": "15/10/2022",
+        "title": "resturent website",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://github.com/MadhuraGhosh/Resturent",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/15/23/24/food-4935258_960_720.jpg"
+      },
+  
+      {
+        "date": "17/10/2022",
+        "title": "real-time-chat",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "https://github.com/MadhuraGhosh/real-time-chat",
+        "imgSrc": "https://cdn.pixabay.com/photo/2018/01/28/10/59/internet-3113279_960_720.jpg"
+      },
+      {
+        "date": "21/11/2022",
+        "title": "PORTFOLIO",
+        "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+        "url": "/",
+        "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+      }
+    ]
+  }
